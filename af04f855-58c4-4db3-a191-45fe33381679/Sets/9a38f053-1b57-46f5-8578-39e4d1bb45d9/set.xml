@@ -2070,7 +2070,7 @@ unit at the same planet."/>
 			<property name="ErrataText"     value=""/>
 			<property name="CardNumber"	value="96"/>
 		</card>
-		<card id="11501d87-40cd-4940-a043-91cb004fe932" name="Shakebite Thug">
+		<card id="11501d87-40cd-4940-a043-91cb004fe932" name="Snakebite Thug">
 			<property name="Faction"        value="Ork"/>
 			<property name="Type"           value="Army"/>
 			<property name="Loyalty"        value=""/>
